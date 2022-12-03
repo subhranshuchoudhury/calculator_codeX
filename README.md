@@ -1,6 +1,6 @@
 # calculator CODE X
 
-View the website: https://github.com/subhranshuchoudhury/calculator_codeX
+View the website: https://subhranshuchoudhury.github.io/calculator_codeX/
 
 REGD NO: 2241003051
 --
